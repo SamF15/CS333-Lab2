@@ -2,7 +2,8 @@
  * Program: Lab2 - PSUsh
  * Date: 16 May, 2023
  * Description: This file contains the definitions for the functions
- * prototyped in cmd_parse.h. These functions 
+ * prototyped in cmd_parse.h. These functions get user input, parse
+ * the command line, and process the commands.
  * Citations:
  * Shamelessly stolen from rchaney@pdx.edu
  */

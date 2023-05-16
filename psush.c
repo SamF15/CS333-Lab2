@@ -1,7 +1,8 @@
 /* Author: Sam Fletcher
  * Program: Lab2 - PSUsh
  * Date: 16 May, 2023
- * Description: 
+ * Description: This is the main file for the psush program.
+ * Most of the hard work is done in cmd_parse.c so go over there.
  * Citations:
  * Shamelessly stolen from rchaney@pdx.edu
  */

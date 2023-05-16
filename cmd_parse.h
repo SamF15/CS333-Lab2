@@ -1,7 +1,8 @@
 /* Author: Sam Fletcher
  * Program: Lab2 - PSUsh
  * Date: 16 May, 2023
- * Description: 
+ * Description: This file contains the definitions of the macros, 
+ * structs, and functions used in cmd_parse.c and psush.c.
  * Citations:
  * Shamelessly stolen from rchaney@pdx.edu
  */
